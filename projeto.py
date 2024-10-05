@@ -3,7 +3,7 @@ import random
 times = ['pikachu', 'squirtle', 'mewtwo', 'charmander', 'bandeira', 'gengar']
 saldo = 0
 
-while True:
+while True:    #hahahahahahahahah
     print('=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n' \
           'Bem-vindo blablabla\n' \
           'Insira um comando númerico de 1 a 5\n' \
